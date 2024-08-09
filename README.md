@@ -25,9 +25,6 @@ For detailed system requirements, installation, and licensing instructions, refe
 
 Check out this tutorial video on YouTube to install Vivado on your desktop/laptop:
 
-[![Watch the video](https://img.youtube.com/vi/fBFn32Al0yw/maxresdefault.jpg)](https://youtu.be/fBFn32Al0yw)
-
-Click the image above to watch the video.
-
+[![Click here to watch the vid](https://img.youtube.com/vi/fBFn32Al0yw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fBFn32Al0yw)
 
 Reffer to have a complete overview on the documentation for downloading :- https://docs.amd.com/r/en-US/ug973-vivado-release-notes-install-license/Requirements-and-Setup
