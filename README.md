@@ -27,4 +27,20 @@ Check out this tutorial video on YouTube to install Vivado on your desktop/lapto
 
 [![Click here to watch the vid](https://img.youtube.com/vi/fBFn32Al0yw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fBFn32Al0yw)
 
-Reffer to have a complete overview on the documentation for downloading :- https://docs.amd.com/r/en-US/ug973-vivado-release-notes-install-license/Requirements-and-Setup
+#### Task I (week 1) combinational circuits:
+
+day 1: 
+
+In this video you will implement basic logic gates in the Vivado environment
+
+for learning the theory please reffer the following link :- [click here to redirect to the link](https://www.geeksforgeeks.org/logic-gates/)
+
+Check out this video on YouTube this will get you started with the vivado environment and you will get insights on how the design flow takes place:
+
+[![Watch the video](https://img.youtube.com/vi/sA5YEIFzCOw/maxresdefault.jpg)](https://www.youtube.com/watch?v=sA5YEIFzCOw)
+
+Click the image above to watch the video.
+
+
+
+
