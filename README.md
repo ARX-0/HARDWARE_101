@@ -39,7 +39,7 @@ Check out this video on YouTube this will get you started with the vivado enviro
 
 ![Click here to watch the video](https://www.youtube.com/watch?v=sA5YEIFzCOw)
 
-Click the image above to watch the video.
+# AS OF NOW THE SITE https://hdlbits.01xz.net/ is down thats why we are doing it in vivado :) please stand by
 
 
 
