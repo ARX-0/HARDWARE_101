@@ -3,11 +3,11 @@ follow this repo complete the tasks and learn RTL_coding
 
 ## Vivado installation tutorial
 
-#### Task-I (tool installation)
+## Task-I (tool installation)
 
-# Vivado Design Suite 2023.2
+### Vivado Design Suite 2023.2
 
-## System Requirements
+#### System Requirements
 
 - **Operating Systems:**
   - **Windows:** Windows 10 or Windows 11 (64-bit)
@@ -21,13 +21,13 @@ follow this repo complete the tasks and learn RTL_coding
 
 For detailed system requirements, installation, and licensing instructions, refer to the [Vivado Design Suite 2023.2 Documentation](https://docs.amd.com/r/en-US/ug973-vivado-release-notes-install-license/Requirements-and-Setup).
 
-# Tutorial Video
+### Tutorial Video
 
 Check out this tutorial video on YouTube to install Vivado on your desktop/laptop:
 
 [![Click here to watch the vid](https://img.youtube.com/vi/fBFn32Al0yw/maxresdefault.jpg)](https://www.youtube.com/watch?v=fBFn32Al0yw)
 
-#### Task I (week 1) combinational circuits:
+## Task I (week 1) combinational circuits:
 
 day 1: 
 
@@ -37,7 +37,7 @@ for learning the theory please reffer the following link :- [click here to redir
 
 Check out this video on YouTube this will get you started with the vivado environment and you will get insights on how the design flow takes place:
 
-[![Watch the video](https://img.youtube.com/vi/sA5YEIFzCOw/maxresdefault.jpg)](https://www.youtube.com/watch?v=sA5YEIFzCOw)
+![Click here to watch the video](https://www.youtube.com/watch?v=sA5YEIFzCOw)
 
 Click the image above to watch the video.
 
