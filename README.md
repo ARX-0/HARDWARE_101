@@ -1,6 +1,8 @@
 # HARDWARE_101
 compete and learn RTL at the same time 
 
+reffer the [rulebook](https://github.com/ARX-0/HARDWARE_101/blob/main/rulebook.md) for knowing the rewards 
+
 ## Task-ZERO (tool installation)
 
 ### Vivado Design Suite 2023.2
