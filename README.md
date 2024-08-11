@@ -1,9 +1,7 @@
 # HARDWARE_101
-follow this repo complete the tasks and learn RTL_coding 
+compete and learn RTL at the same time 
 
-## Vivado installation tutorial
-
-## Task-I (tool installation)
+## Task-ZERO (tool installation)
 
 ### Vivado Design Suite 2023.2
 
@@ -39,8 +37,15 @@ Check out this video on YouTube this will get you started with the vivado enviro
 
 ![Click here to watch the video](https://www.youtube.com/watch?v=sA5YEIFzCOw)
 
-# AS OF NOW THE SITE https://hdlbits.01xz.net/ is down thats why we are doing it in vivado :) please stand by
+day 2:
 
+Create and account at [hdlbits](https://hdlbits.01xz.net/wiki/Main_Page)
 
+Solve and upload in your github repo :)
+
+- [Step One](https://hdlbits.01xz.net/wiki/Step_one)
+- [Zero](https://hdlbits.01xz.net/wiki/Zero)
+- [Wire](https://hdlbits.01xz.net/wiki/Wire)
+- [Wire4](https://hdlbits.01xz.net/wiki/Wire4)
 
 
