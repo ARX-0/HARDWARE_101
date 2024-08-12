@@ -1,3 +1,15 @@
+# INSTRUCTIONS TO UPLOAD TASKS 
+
+make a file for each week and upload taks in it 
+the file sysyem shold be as TASK-X -> (day1.md , day2.md , day3.md .....)
+these day1.md,day2.md,day3.md ..... files all should have the screenshots of each n every problem that you completed 
+
+![image](https://github.com/user-attachments/assets/15bbcb43-d9b5-4371-a7b7-d475d579a687)
+
+![image](https://github.com/user-attachments/assets/21b99b36-b37f-4cff-b3fc-4d5bdccebf11)
+
+# IF you dont have a readme make one lets see how 
+
 MAKE your github repo with the README.md file enabled or try this the below steps instead 
 
 ![image](https://github.com/user-attachments/assets/90baa187-9cd3-41a0-9611-195d84804448)
@@ -21,9 +33,4 @@ then commit changes
 
 ![image](https://github.com/user-attachments/assets/41df1697-2db8-4851-9445-ef02f627522c)
 
-
-# INSTRUCTIONS TO UPLOAD TASKS 
-
-make a file for each week and upload taks in it 
-the file sysyem shold be as task1 -> (day1.md , day2.md , day3.md .....)
 
