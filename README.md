@@ -37,7 +37,7 @@ for learning the theory please reffer the following link :- [click here to redir
 
 Check out this video on YouTube this will get you started with the vivado environment and you will get insights on how the design flow takes place:
 
-![Click here to watch the video](https://www.youtube.com/watch?v=sA5YEIFzCOw)
+[Click here to watch the video](https://www.youtube.com/watch?v=sA5YEIFzCOw)
 
 day 2:
 
