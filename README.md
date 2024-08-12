@@ -1,7 +1,7 @@
 # HARDWARE_101
 compete and learn RTL at the same time 
 
-reffer the [rulebook](https://github.com/ARX-0/HARDWARE_101/blob/main/rulebook.md) [](https://github.com/ARX-0/HARDWARE_101/blob/main/instructions.md) for knowing the rewards and the instructions for uploading the tasks.
+reffer the [rulebook](https://github.com/ARX-0/HARDWARE_101/blob/main/rulebook.md),[instructions](https://github.com/ARX-0/HARDWARE_101/blob/main/instructions.md) for knowing the rewards and the instructions for uploading the tasks respectively.
 
 ## Task-ZERO (tool installation)
 
