@@ -1,8 +1,10 @@
-# INSTRUCTIONS TO UPLOAD TASKS 
+# INSTRUCTIONS TO UPLOAD TASKS (you might require VScode and github desktop to get the job done)
 
 make a file for each week and upload taks in it 
 the file sysyem shold be as TASK-X -> (day1.md , day2.md , day3.md .....)
 these day1.md,day2.md,day3.md ..... files all should have the screenshots of each n every problem that you completed 
+
+
 
 ![image](https://github.com/user-attachments/assets/15bbcb43-d9b5-4371-a7b7-d475d579a687)
 
