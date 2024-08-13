@@ -1,3 +1,9 @@
+# INSTRUCTIONS TO CREATE YOUR REPO 
+
+![image](https://github.com/user-attachments/assets/31ccf216-fae3-44ef-abb5-e4e2f98098fd)
+
+
+
 # INSTRUCTIONS TO UPLOAD TASKS (you might require VScode and github desktop to get the job done)
 
 make a file for each week and upload taks in it 
