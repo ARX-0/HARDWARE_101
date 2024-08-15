@@ -55,4 +55,8 @@ day 3:-
 
 i hope you have completed day 2 as day 3 is dependent on day 2
 
-Prerequisites of TASK-I day 3 are given in 
+Prerequisites of TASK-I day 3 are given in the following link [LEARN HOW TO CODE FOR LOGIC GATES](https://github.com/ARX-0/HARDWARE_101/blob/main/prerequisites.md)
+
+the actual task 
+- [Wire_decl](https://hdlbits.01xz.net/wiki/Wire_decl)
+- [coding for 7458 chip](https://hdlbits.01xz.net/wiki/7458)
