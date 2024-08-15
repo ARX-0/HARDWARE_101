@@ -51,3 +51,8 @@ Solve and upload in your github repo :)
 - [Wire4](https://hdlbits.01xz.net/wiki/Wire4)
 
 
+day 3:-
+
+i hope you have completed day 2 as day 3 is dependent on day 2
+
+Prerequisites of TASK-I day 3 are given in 
