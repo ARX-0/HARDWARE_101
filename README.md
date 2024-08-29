@@ -74,3 +74,11 @@ day 4:-
 Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS) 
 - [prob-1](https://hdlbits.01xz.net/wiki/Alwaysblock1)
 - [prob-2](https://hdlbits.01xz.net/wiki/Alwaysblock2)
+
+day 5:- 
+- ~arrays~ vectors in verilog (key concepts for memory declarations ... RAMs..ROMs may it be segmented or a block if there is a memory there lies a vector).
+  
+![image](https://github.com/user-attachments/assets/c0bb68b5-232b-4db0-96ff-73dbf16a2137)
+
+- [reffer the vid for the intro to vectors](https://www.youtube.com/watch?v=eA4O2BbNW2s&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&index=4)
+  - [start by clicking here!](https://hdlbits.01xz.net/wiki/Vector0)
