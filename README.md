@@ -61,7 +61,7 @@ the actual task
 - [Wire_decl](https://hdlbits.01xz.net/wiki/Wire_decl)
 - [coding for 7458 chip](https://hdlbits.01xz.net/wiki/7458)
 
-# TASK II (sequential circuits)
+## TASK II (sequential circuits)
 ### HERE WE LEARN AND IMPLEMENT sequential circuits (dificulty is set to medium)
 
 PREREQUISITES :- 
