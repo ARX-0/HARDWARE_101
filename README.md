@@ -60,3 +60,17 @@ Prerequisites of TASK-I day 3 are given in the following link [LEARN HOW TO CODE
 the actual task 
 - [Wire_decl](https://hdlbits.01xz.net/wiki/Wire_decl)
 - [coding for 7458 chip](https://hdlbits.01xz.net/wiki/7458)
+
+# TASK II (sequential circuits)
+### HERE WE LEARN AND IMPLEMENT sequential circuits (dificulty is set to medium)
+
+PREREQUISITES :- 
+
+- [watch this vid to get a reason on WHY we need to go into sequential ckts in FPGAs....](https://www.youtube.com/watch?v=N-za84TsjDk)
+- [WHAT IS THE "ALWAYS" block and how to code for it...(whyrd-hdlbits)](https://www.youtube.com/watch?v=eG9Gr0gYcQA)
+
+day 4:- 
+
+Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS) 
+- [prob-1](https://hdlbits.01xz.net/wiki/Alwaysblock1)
+- [prob-2](https://hdlbits.01xz.net/wiki/Alwaysblock2)
