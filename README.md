@@ -82,3 +82,13 @@ day 5:-
 
 - [reffer the vid for the intro to vectors](https://www.youtube.com/watch?v=eA4O2BbNW2s&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&index=4)
   - [start by clicking here!](https://hdlbits.01xz.net/wiki/Vector0)
+
+day 6:-
+ Flipflops (memory elements that are essential for the making of sequential circuits)
+here you will be offered less help (the upcomming task is a hard task)
+
+- complete the below problems (figure out the answers on your own go on the hunt for resources on your own .... remember "SELF RELIANT" Engineers are paid well and have better job security)
+
+![image](https://github.com/user-attachments/assets/28c3fc3e-5a64-4512-b8a3-1cdb045576fd)
+
+- document what is the difference between a latch and a flip-flop (make it as a readme file understand and importantly understand the key difference)
