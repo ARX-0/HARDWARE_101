@@ -92,3 +92,23 @@ here you will be offered less help (the upcomming task is a hard task)
 ![image](https://github.com/user-attachments/assets/28c3fc3e-5a64-4512-b8a3-1cdb045576fd)
 
 - document what is the difference between a latch and a flip-flop (make it as a readme file understand and importantly understand the key difference)
+
+day 7:- 
+positive edge detector in electronic bits :) 
+
+the exact code that i did in the demo 
+
+visit the :- [electronic_bits_website](https://electronic-bit.com/developers/verilog)
+
+![image](https://github.com/user-attachments/assets/8d5b242d-ef56-4ab3-8c99-bd6d92edc361)
+
+##### go into advanced -> and then proceed to website 
+
+![image](https://github.com/user-attachments/assets/f878fc48-5d44-4f5c-8e6f-93c3dd047cff)
+
+i dont know why but this seem to be the case :( 
+
+well you have the solutions there on the left *(try not to look and think for a moment before doing it)*
+
+![image](https://github.com/user-attachments/assets/e65be656-12d3-4828-b680-507023b0753e)
+
