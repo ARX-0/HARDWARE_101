@@ -351,4 +351,4 @@ Run connection automation again. This is the final block diagram.
 
 ![image](https://github.com/user-attachments/assets/f4cd6dba-3a7f-4f14-afa8-32cc288956d5)
 
-
+Hit the generate bitstream button (this synthesis might take a good 30 mins make shure to go on break .... (open synthesixed reports and view your design reports)
