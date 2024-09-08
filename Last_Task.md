@@ -256,8 +256,18 @@ click on the export RTL to get this into vivado
 set the output file location and remember it for the future you will need it ....
 ![image](https://github.com/user-attachments/assets/7843bd6d-aeb3-4627-a88d-91854b734b77)
 
+## lets export this as a HLS block
+
 I will remember this path
+
 ![image](https://github.com/user-attachments/assets/0596f24c-4ea3-4ed4-8f1d-43f0876f1d60)
 
 hit ok to see this 
+
 ![image](https://github.com/user-attachments/assets/5bb4ddb3-d2c2-467e-8740-c452ae9a997b)
+
+this is your green signal
+
+![image](https://github.com/user-attachments/assets/c3b8f361-5886-45f5-9a12-41ec05483328)
+
+
