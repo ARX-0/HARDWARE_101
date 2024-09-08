@@ -1,8 +1,17 @@
-![image](https://github.com/user-attachments/assets/d083c5ff-f43c-4dee-b8d8-5221a5f39a45)
+# The HLS design flow 
+
+![image](https://github.com/user-attachments/assets/d88729e6-78c9-423e-bb07-7cd11a3ee9f6)
+
+
+Open Vitis HLS
 
 ![image](https://github.com/user-attachments/assets/232c9e93-dbf7-4f54-a448-2579b48c8a7c)
 
+skip to the last (if you want add/create the files for the main design and the test bench)
+
 ![image](https://github.com/user-attachments/assets/8b73e83e-79ac-4505-8329-450cb98d2883)
+
+Choose the board by following the "3 dots" and then to the "Boards menu in the left top corner" choose the KV260
 
 ![image](https://github.com/user-attachments/assets/3fb684d7-144f-41cd-8f4c-cea24b6bafb5)
 
