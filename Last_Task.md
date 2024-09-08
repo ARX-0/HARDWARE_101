@@ -274,6 +274,56 @@ this is your green signal
 
 ![image](https://github.com/user-attachments/assets/44987f8a-a56f-4f6f-8463-213ccb8342b7)
 
+or like this 
 
+![image](https://github.com/user-attachments/assets/57fdb71f-7839-4a8f-88b2-75c0740a59d0)
+
+# Flow in Vivado
+
+Open Vivado
+
+![image](https://github.com/user-attachments/assets/5b4455b2-b01f-42de-b155-cbf351057dea)
+
+open a new project and do what you need but while choosing the boards go into Boards->Kria KV260.
+
+![image](https://github.com/user-attachments/assets/5a3de453-b9e4-4608-999e-6c98612ebe40)
+
+should look like this 
+
+![image](https://github.com/user-attachments/assets/faedab4d-8c64-436f-b2ed-7ffd8ffd36e9)
+
+
+## Now make a block design 
+
+![image](https://github.com/user-attachments/assets/df88e573-1ac9-4672-bcaa-a16dc6593e11)
+
+click on settings to open up this window
+
+![image](https://github.com/user-attachments/assets/2a2eeacb-c49c-47f4-bcf5-161a60a8dfac)
+
+click on IP->Repository
+
+![image](https://github.com/user-attachments/assets/f7884922-7801-45f0-a774-62742bf8773f)
+
+and on the "+" mark
+
+![image](https://github.com/user-attachments/assets/de999173-c9a8-4969-ae54-1cf5a58362f3)
+
+the path in my system:- /home/arx-0/Documents/new_ip_sha  
+
+![image](https://github.com/user-attachments/assets/9077d570-af34-4a18-9c45-2c78accfde53)
+
+Hit ok and Apply ...
+
+![image](https://github.com/user-attachments/assets/d38948a8-373a-43a3-908c-ed97cb38dbf3)
+
+
+Now we have our Hls IP in vivado :) 
+
+![image](https://github.com/user-attachments/assets/92863e2d-88d9-4d4f-856b-ce5df22d62fc)
+
+this is your achievement as of now 
+
+![image](https://github.com/user-attachments/assets/04641d08-0c9a-45a9-91c0-4a456c8bb25c)
 
 
