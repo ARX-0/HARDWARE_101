@@ -270,4 +270,10 @@ this is your green signal
 
 ![image](https://github.com/user-attachments/assets/c3b8f361-5886-45f5-9a12-41ec05483328)
 
+### Extract the files in that location its given as a .zip file (also available in the main batch in this repo)
+
+![image](https://github.com/user-attachments/assets/44987f8a-a56f-4f6f-8463-213ccb8342b7)
+
+
+
 
