@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d88729e6-78c9-423e-bb07-7cd11a3ee9f6)
 
 
-Open Vitis HLS
+Open Vitis HLS -> create a new project
 
 ![image](https://github.com/user-attachments/assets/232c9e93-dbf7-4f54-a448-2579b48c8a7c)
 
