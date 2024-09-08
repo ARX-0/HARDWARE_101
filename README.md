@@ -112,3 +112,10 @@ well you have the solutions there on the left *(try not to look and think for a 
 
 ![image](https://github.com/user-attachments/assets/e65be656-12d3-4828-b680-507023b0753e)
 
+
+## The LAST task (cpp and HLS... how it ties down to vivado....with verilog you have control over HW with C we can make things faster)
+
+reffer to this readme folder for the last task 
+[Click here to redirect to the last task](https://github.com/ARX-0/HARDWARE_101/blob/main/Last_Task.md)
+[the .zip file for the ip core](https://github.com/ARX-0/HARDWARE_101/blob/main/export.zip)
+
