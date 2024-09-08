@@ -327,3 +327,28 @@ this is your achievement as of now
 ![image](https://github.com/user-attachments/assets/04641d08-0c9a-45a9-91c0-4a456c8bb25c)
 
 
+Under IP Integrator, choose Create Block Diagram. Add the following blocks:
+
+- Zynq UltraScale+ MPSoc (This is the PS)
+- Hash (The IP that we have generated from Vitis HLS)
+- AXI Interconnect (To interconnect to the m_axi bus from our IP)
+![image](https://github.com/user-attachments/assets/d21cb4ab-e237-4b67-ac53-6ea20d6cc7ff)
+
+
+![image](https://github.com/user-attachments/assets/83f914b7-d03b-4aa1-acfa-0320bb3537b9)
+
+After that, run Connection Automation. Choose all the possible automations and accept the default settings.
+
+![image](https://github.com/user-attachments/assets/74987593-a5e2-4530-a010-7bb2db0fc2f2)
+
+Notice that the interconnect bus for m_axi (Master) is still unconnected. This is because I forgot to enable the Slave interface on the PS.
+
+*Double click on the Zynq UltraScale+ MPSoc block. Enable AXI HP0 FPD (high performance). Check that the data width is 32 bits which is to match what was synthesized in the HLS.*
+
+![image](https://github.com/user-attachments/assets/5d17f500-b799-42b8-93a8-4588a835ba03)
+
+Run connection automation again. This is the final block diagram.
+
+![image](https://github.com/user-attachments/assets/f4cd6dba-3a7f-4f14-afa8-32cc288956d5)
+
+
