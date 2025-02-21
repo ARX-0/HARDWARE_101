@@ -53,6 +53,9 @@ Solve and upload in your github repo :)
 Day 3:
 
 -[AND gate](https://hdlbits.01xz.net/wiki/Andgate)
+
 -[XNOR gate](https://hdlbits.01xz.net/wiki/Xnorgate)
+
 -[7458 chip](https://hdlbits.01xz.net/wiki/7458)
+
 -[Vectors](https://hdlbits.01xz.net/wiki/Vector0)
