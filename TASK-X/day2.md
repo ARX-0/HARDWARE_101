@@ -56,3 +56,4 @@ Day 3:
 - [XNOR gate](https://hdlbits.01xz.net/wiki/Xnorgate)
 - [7458 chip](https://hdlbits.01xz.net/wiki/7458)
 - [Vectors](https://hdlbits.01xz.net/wiki/Vector0)
+- [AlwaysBlock](https://hdlbits.01xz.net/wiki/Alwaysblock1)
